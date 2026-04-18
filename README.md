@@ -1,2 +1,21 @@
-# attentionx-lite
+# AttentionX Lite
 AI-powered tool to convert long videos into short highlight clips using Whisper and MoviePy
+
+## Problem
+Long videos are hard to consume.
+
+## Solution
+This app converts long videos into short highlight clips using AI techniques.
+
+## Features
+- Video upload
+- Highlight extraction
+- Clip generation
+
+## Tech Stack
+- Python
+- Streamlit
+- MoviePy
+
+## Demo
+(Add your demo link here)
