@@ -17,5 +17,8 @@ This app converts long videos into short highlight clips using AI techniques.
 - Streamlit
 - MoviePy
 
-## Demo
+## Demo (screen recording with voiceover)
 https://drive.google.com/file/d/1p9DLgIGu59686BarW1nHTpy9QV7K_HY1/view?usp=sharing
+
+## 🌐 Live Demo (website link)
+https://attentionx-lite-pu5g3gwawld7xftwkmjai3.streamlit.app/
