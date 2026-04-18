@@ -18,4 +18,4 @@ This app converts long videos into short highlight clips using AI techniques.
 - MoviePy
 
 ## Demo
-(Add your demo link here)
+https://drive.google.com/file/d/1p9DLgIGu59686BarW1nHTpy9QV7K_HY1/view?usp=sharing
